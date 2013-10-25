@@ -323,7 +323,6 @@
 	return rows;
 }
 
-
 -(NSInteger) numberOfSectionsInTableView:(UITableView *)tableView
 {
 	NSInteger sections = 1;
